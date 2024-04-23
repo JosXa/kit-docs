@@ -556,7 +556,7 @@ let word = await select("Type then pick a words", input => {
 })
 ```
 
-### inpect
+### inspect
 
 
 
