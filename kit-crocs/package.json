@@ -1,6 +1,6 @@
 {
   "name": "kit-crocs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -17,6 +17,7 @@
   "dependencies": {
     "@docusaurus/core": "3.2.1",
     "@docusaurus/preset-classic": "3.2.1",
+    "@easyops-cn/docusaurus-search-local": "^0.40.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
