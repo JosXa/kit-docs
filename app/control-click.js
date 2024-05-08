@@ -1,1 +1,0 @@
-say("right mouse button")
