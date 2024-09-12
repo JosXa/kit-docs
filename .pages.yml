@@ -2,7 +2,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: '.'
+    path: ''
     view:
       fields: [ slug, title, sidebar_position ]
     fields:
