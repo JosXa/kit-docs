@@ -1,6 +1,6 @@
 content:
-  - name: posts
-    label: Posts
+  - name: docs
+    label: Docs
     type: collection
     path: ''
     view:
