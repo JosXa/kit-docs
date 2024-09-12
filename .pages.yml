@@ -1,0 +1,20 @@
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: '.'
+    view:
+      fields: [ slug, title, sidebar_position ]
+    fields:
+      - name: slug
+        label: Slug
+        type: string
+      - name: title
+        label: Title
+        type: string
+      - name: sidebar_position
+        label: Title
+        type: number
+      - name: body
+        label: Body
+        type: rich-text
